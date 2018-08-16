@@ -1,0 +1,46 @@
+body {
+  background-color: #2F2F34;
+  font-family: 'Cinzel', serif;
+  color: white;
+  text-align: center;
+}
+.band-pic {
+  border-radius: 5px;
+  max-height: 500px;
+  max-width: 500px;
+}
+
+img {
+  float: right;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.album-c {
+  width: 500px;
+  height: 500px;
+}
+
+.album-d {
+  width: 500px;
+  height: 500px;
+}
+
+.album-e {
+  width: 500px;
+  height: 500px;
+}
+
+ul {
+  list-style: none;
+  float: right;
+}
+
+.tour-dates {
+  float: right;
+  position: fixed;
+  top: 45;
+  text-align: justify;
+}
